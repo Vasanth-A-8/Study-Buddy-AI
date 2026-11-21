@@ -1,0 +1,9 @@
+
+{
+  "rewrites": [
+    {
+      "source": "/api/:path*",
+      "destination": "https://study-buddy-ai-n5la.onrender.com/api/:path*"
+    }
+  ]
+}
